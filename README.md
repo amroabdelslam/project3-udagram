@@ -57,7 +57,7 @@ or Clone it using GIT `git clone` if you access it from GITHUB.
 
 ---
 
-### Dependencies
+## Dependencies
 
 ```
 - Node v14.15.0 (LTS) version .
@@ -70,7 +70,7 @@ or Clone it using GIT `git clone` if you access it from GITHUB.
 
 ```
 ---
-### Installation
+## Installation
 
 Provision the necessary AWS services needed for running the application:
 
@@ -84,7 +84,7 @@ or use "set_env.sh" file and run command `source set_env.sh` in udagram console 
  After installation is done start the api in dev mode with `npm run dev`.
 1. Without closing the terminal in step 1, navigate to the udagram-frontend `cd udagram-frontend` to intall the node_modules `npm install`. After installation is done start the api in dev mode with `npm run start`.
   
-#### Ports:
+### Ports:
     • Server port 3000.
     • Database port 5432.
 ---
@@ -98,21 +98,25 @@ This project contains two different test suite: unit tests and End-To-End tests(
 
 There are no Unit test on the back-end
 
+
 ### Unit Tests:
 
 Unit tests are using the Jasmine Framework.
 
+
 ### End to End Tests:
 
 The e2e tests are using Protractor and Jasmine.
+
 ---
+
 ## Built With
 
 - [Angular](https://angular.io/) - Single Page Application Framework
 - [Node](https://nodejs.org) - Javascript Runtime
 - [Express](https://expressjs.com/) - Javascript API Framework
 ---
-# Contribute
+## Contribute
 
 [(Back to top)](#table-of-contents)
 
@@ -122,7 +126,7 @@ The e2e tests are using Protractor and Jasmine.
 
 ---
 
-# License & Copyright
+## License & Copyright
 
 [(Back to top)](#table-of-contents)
 
